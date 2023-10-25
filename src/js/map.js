@@ -88,3 +88,5 @@ map.on('click', function(e) {
     searchBarHeight: '30px',
     maxSearchResults: 3
 }).addTo(map);
+
+L.control.slideMenu('<p>test</p>').addTo(map);
