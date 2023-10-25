@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Aggressive-Mohammed/aamusted-campus-navigation-app#readme",
   "dependencies": {
-    "bootstrap": "^5.3.2"
+    "bootstrap": "^5.3.2",
+    "leaflet.pinsearch": "^1.0.4"
   }
 }
